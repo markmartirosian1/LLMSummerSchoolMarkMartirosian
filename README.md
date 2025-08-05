@@ -1,6 +1,6 @@
 # ArmLLM 2025 — Summer Program Exercises
 
-This repository contains code and notebooks developed as part of the **2025 ArmLLM Summer School**, a hands-on training program in large language models, multimodality, agentic workflows and more. It was a six day program, each of with was based on a topic designed to highlight a key component in building and evaluating modern LLM systems.
+This repository contains code and notebooks developed as part of the **2025 ArmLLM Summer School**, a hands-on training program in large language models, multimodality, agentic workflows and more. It was a six day program, each of which was based on a topic designed to highlight a key component in building and evaluating modern LLM systems.
 
 ---
 
