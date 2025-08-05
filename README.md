@@ -8,8 +8,8 @@ This repository contains code and notebooks developed as part of the **2025 ArmL
 
 ```
 2025/
-├── Module 1: Intro & Pretraining/     # Exercise 1
-├── Multimodality/                    # Exercise 2
+├── Intro & Pretraining/               # Exercise 1
+├── Multimodality/                     # Exercise 2
 ├── Post-Training/                     # Exercise 3
 ├── Inference-Timing/ (notebooks only) # Exercise 4
 ├── Agents/                            # Exercise 5
